@@ -6,5 +6,5 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ### Links
 
-- Solution URL: [3-column preview card component solution](https://www.frontendmentor.io/)
+- Solution URL: [3-column preview card component solution](https://www.frontendmentor.io/solutions/3column-preview-card-component-uGGiVLNzRK)
 - Live Site URL: [https://amgnim.github.io/3-column-preview-card-component/](https://amgnim.github.io/3-column-preview-card-component/)
